@@ -1,5 +1,4 @@
 # Optimal-control-of-double-integrator-problem
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 [Double integrator ](https://en.wikipedia.org/wiki/Double_integrator) is a second order system relevant to many acceleration control problems like satellite attitude control. <br>
 **Differential Equation**
 $\ddot{x} =u(t)$
@@ -7,6 +6,7 @@ $\ddot{x} =u(t)$
 **State Space Equations**
 $\dot{x_1} =x_2$
 $\dot{x_2} =u$
+
 
 **Cost Function**
 $$
