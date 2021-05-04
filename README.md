@@ -23,7 +23,7 @@ $$H = u^2/2 + \lambda_1 x_2 + \lambda_2 u $$, where $\lambda_1$ and $\lambda_2$ 
 $$\phi = t_f^2$$
 1. Co-state equations:<br>
 <br> $\dot{\lambda_1} = - \frac{\partial H}{\partial x_1} = 0$
-$\dot{\lambda_2} = - \frac{\partial H}{\partial x_2} = - \lambda_1$
+<br>$\dot{\lambda_2} = - \frac{\partial H}{\partial x_2} = - \lambda_1$<br>
 2. Optimal control equation:
 	$$\frac{\partial H}{\partial u} = 0 \Rightarrow u = - \lambda_2$$
 3. State and costate equations: <br>
