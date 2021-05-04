@@ -2,6 +2,7 @@
 [Double integrator ](https://en.wikipedia.org/wiki/Double_integrator) is a second order system relevant to many acceleration control problems like satellite attitude control. <br>
 **Differential Equation** <br>
 $\ddot{x} =u(t)$ <br>
+[img]https://bit.ly/3b1gMtZ[/img]
 
 **State Space Equations**<br>
 $\dot{x_1} =x_2$<br>
