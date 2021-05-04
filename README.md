@@ -6,10 +6,10 @@ $\ddot{x} =u(t)$ <br>
 **State Space Equations**<br>
 $\dot{x_1} =x_2$<br>
 $\dot{x_2} =u$
-<br>
-**Cost Function**<br>
+<br><br>
+**Cost Function**
 $$
-J = t_f ^2 + \int_0^{t_f}  u^{2}dt\,.
+J = t_f ^2 + \int_0^{t_f}  u^{2}dt\.
 $$
 Constrained by the state space equations.<br>
 Boundary Conditions: <br>
