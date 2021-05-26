@@ -21,4 +21,3 @@ end
 function [res] = bcs(ya, yb)
 res = [ya(1)-10; ya(2); yb(1); yb(2); 2*yb(5)-yb(4)^2/2+yb(3)*yb(2)];
 end
-
